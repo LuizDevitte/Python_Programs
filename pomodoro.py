@@ -1,6 +1,9 @@
 #coding=utf-8
 #!/usr/bin/env python
 
+# Program design to warn the user to take regular breaks during the day
+# Duration of break and focused times can be changed
+
 import webbrowser
 import time
 
