@@ -1,5 +1,5 @@
-#coding=utf-8
 #!/usr/bin/env python
+#coding=utf-8
 
 from webbrowser import open as Open
 from time import sleep
